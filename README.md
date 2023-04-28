@@ -5,4 +5,4 @@
 Используя возможности JS, написать таймер
 
 # Демо
-amo-crm-test-1-task.vercel.app
+https://amo-crm-test-1-task.vercel.app/
